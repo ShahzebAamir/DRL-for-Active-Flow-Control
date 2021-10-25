@@ -36,11 +36,15 @@ This requires a careful installation as it is not supported in Windows os. Hence
 
 You can set-up fenics in mac and ubuntu as well following the official guide
 
-# Setting up tensorforce from docker
+# Setting up tensorforce from docker:
 You have to install all the packages from the docker
 1. run in docker terminal: docker exec -ti notebook /bin/bash -l
 2. type and execute ls
 3. run cd local/
 4. Now install: pip install tensorforce[tf] (Install version 0.4.2)
 5. If you want any other package install using pip install here
-  
+
+# Results:
+
+Control: https://github.com/ShahzebAamir/DRL-for-Active-Flow-Control/blob/main/Results_best_exp1/Controlled_U_Diff.pdf
+Without Control: https://github.com/ShahzebAamir/DRL-for-Active-Flow-Control/blob/main/Results_best_exp1/Init_U_Diff.pdf  
