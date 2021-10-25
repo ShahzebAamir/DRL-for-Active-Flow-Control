@@ -1,2 +1,2 @@
 # DRL-for-Active-Flow-Control
-This repo contains code for the final project of Reinforcement Learning Course. The code executes active flow control of a fluid past a cylinder using Deep Reinforcement Learning
+This repo contains code for the final project of Reinforcement Learning Course. The code executes active flow control of a fluid past a cylinder using Deep Reinforcement Learning. This project is referenced from Rabault, J., Kuchta, M., Jensen, A., Reglade, U., Cerardi, N., 2018. Artificial Neural Networks trained through Deep Reinforcement Learning discover control strategies for active flow control. arXiv preprint arXiv:1808.07664.
