@@ -38,9 +38,9 @@ You can set-up fenics in mac and ubuntu as well following the official guide
 
 # Setting up tensorforce from docker:
 You have to install all the packages from the docker
-1. run in docker terminal: docker exec -ti notebook /bin/bash -l
-2. type and execute ls
-3. run cd local/
+1. Run in docker terminal: docker exec -ti notebook /bin/bash -l
+2. Type and execute ls
+3. Run cd local/
 4. Now install: pip install tensorforce[tf] (Install version 0.4.2)
 5. If you want any other package install using pip install here
 
