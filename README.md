@@ -26,12 +26,13 @@ This project requires:
 This requires a careful installation as it is not supported in Windows os. Hence, following the steps one can set-up a jupyter notebook with working fenics library.
 1. Install Docker Quickstart Terminal (https://docs.bitnami.com/containers/how-to/install-docker-in-windows/)
 2. Create a directory in the Users folder (Important to Pull the code in that directory)
-3. Now install fenics from the docker following this (https://fenics.readthedocs.io/projects/containers/en/latest/jupyter.html)
-4. Afterwards, start the container by using: docker start notebook
-5. Then execute: docker logs notebook
-6. Then copy/paste the ip that is generated for example: http://127.0.0.1:8888/?token=bb5b57183e17f2da23b7766456409498eeda31b732c3d9b1
-7. Now replace 127.0.0.1 with the ip that you obtain from running the command docker-machine ip
-8. Now, you can jupyter notebook with fenics installed
+3. Go to that directory from your Docker Quickstart Terminal
+4. Now install fenics from the docker following this (https://fenics.readthedocs.io/projects/containers/en/latest/jupyter.html)
+5. Afterwards, start the container by using: docker start notebook
+6. Then execute: docker logs notebook
+7. Then copy/paste the ip that is generated for example: http://127.0.0.1:8888/?token=bb5b57183e17f2da23b7766456409498eeda31b732c3d9b1
+8. Now replace 127.0.0.1 with the ip that you obtain from running the command (docker-machine ip)
+9. Now, you can jupyter notebook with fenics installed
 
 You can set-up fenics in mac and ubuntu as well following the official guide
 
