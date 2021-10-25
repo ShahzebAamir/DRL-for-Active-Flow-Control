@@ -12,5 +12,5 @@ The main code for the project is in the folder named code. It contains following
 7. WorkingFlowSolver.py (This contains the implementation of IPCS solver scheme using fenics framework) (Inspired from https://fenicsproject.org/pub/tutorial/html/._ftut1009.html)
 8. Working_2DCylinder_EnvDef (This creates the environment for RL algorithm, actions, rewards, necesasary plottings and data-saving)
 9. Env_instance (This instantiates the environment object)
-10. Main_leanring_PPO.ipynb (This sets up the DRL algorithm and performs training of the agent)
+10. Main_leanring_PPO.ipynb (This sets up the DRL algorithm (Proximal Policy Optimization) and performs training of the agent)
 11. Other files are just to gather results
