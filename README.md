@@ -15,6 +15,8 @@ The main code for the project is in the folder named code. It contains following
 10. Main_leanring_PPO.ipynb (This sets up the DRL algorithm (Proximal Policy Optimization) and performs training of the agent)
 11. Other files are just to gather results
 
+Feel Free to change any parameters in the given codes
+
 # Dependencies:
 This project requires:
 1. Fenics Library (Latest Version can work) (https://fenicsproject.org/download/)
