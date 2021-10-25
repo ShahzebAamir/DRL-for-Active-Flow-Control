@@ -23,6 +23,8 @@ This project requires:
 3. Tensorforce Library (Versions 0.4.1)
 4. Printind (pip install printind)
 5. Numpy, Matplotlib
+6. GMSH software (https://gmsh.info/)
+7. Results are viewed via Paraview (Standalone software and takes .xdmf file)
 
 # Setting up Fenics:
 This requires a careful installation as it is not supported in Windows os. Hence, following the steps one can set-up a jupyter notebook with working fenics library.
